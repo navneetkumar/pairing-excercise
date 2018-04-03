@@ -1,10 +1,8 @@
 package com.tyro.pairing
 
 import org.hamcrest.CoreMatchers.equalTo
-import org.junit.Test
-
 import org.hamcrest.MatcherAssert.assertThat
-import org.hamcrest.core.Is.`is`
+import org.junit.Test
 
 class ExerciseKtTest {
 
